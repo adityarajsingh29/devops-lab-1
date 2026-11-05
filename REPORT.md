@@ -1,8 +1,8 @@
 # Lab 1 Report - DevOps Foundations & Continuous Integration
 
 **Course:** DevOps and Automation Lab (ENSP461)  
-**Student:** Ansh Kapoor  
-**Repository:** https://github.com/axdy02/devops-lab1  
+**Student:** Aditya Raj Singh
+**Repository:** https://github.com/adityarajsingh29/devops-lab-1
 **Environment used:** Ubuntu in WSL2 on Windows  
 **Application language:** Python | **Pipeline syntax:** Declarative Jenkins Pipeline
 
